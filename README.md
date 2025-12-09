@@ -1,12 +1,21 @@
 Part !
 Before changes:
+<img width="806" height="506" alt="Before-High-Fidelity-Mockup" src="https://github.com/user-attachments/assets/dac832ed-f0ad-44f4-842d-74cc1b8de9d6" />
+
 
 After changes:
+<img width="714" height="512" alt="After-High-Fidelity-Mockup" src="https://github.com/user-attachments/assets/5eacdfe9-050d-47dd-b46c-02b474f8f5ba" />
 
 The changes are primarily in the toast. After submission, the new page would create a toast and redirect users back to homepage. The new webpage also has a redesigned structure, such as stacked fields for ‘start date’ and ‘end date’ on smaller screens. Finally there are some UI changes in placeholder colors to emphasize important information over less important ones.
 
 Part B
 Screenshots of After Implementation:
+<img width="479" height="949" alt="evaluation-3" src="https://github.com/user-attachments/assets/82472e6a-9bb1-4daf-beeb-55d75c83600a" />
+<img width="1512" height="982" alt="evaluation-2" src="https://github.com/user-attachments/assets/e493b56c-9553-46ac-9888-1e385d80171d" />
+<img width="1512" height="982" alt="evaluation-1-3" src="https://github.com/user-attachments/assets/479cfc0e-ad33-4bc4-916e-4d0e5030445f" />
+<img width="1512" height="982" alt="evaluation-1-2" src="https://github.com/user-attachments/assets/b4286dab-6f47-489c-b33f-dc0bb0ab0e25" />
+<img width="1512" height="982" alt="evaluation-1-1" src="https://github.com/user-attachments/assets/bfac3695-7dad-4c77-af99-f1a9422ad493" />
+
 
 Explanation:
 The pictures above implements the following design patterns:
